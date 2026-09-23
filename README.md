@@ -132,3 +132,12 @@ data/sample_docs/   fictional help-center docs to try it out
 - Expose the agent as a **FastAPI** endpoint so other apps can use it, keeping Streamlit as the dashboard.
 - Add an evaluation set (question → expected source) and chart retrieval hit-rate over time.
 - Add authentication (e.g. `streamlit-authenticator`) before deploying anywhere shared.
+
+<img width="1731" height="909" alt="Screenshot_23-9-2026_12433_localhost" src="https://github.com/user-attachments/assets/0a4e06b9-b724-4483-b168-65ab5d845a28" />
+
+<img width="1731" height="909" alt="Screenshot_23-9-2026_124226_localhost" src="https://github.com/user-attachments/assets/eb567252-33df-4c13-9dfd-fb9fd8da935d" />
+
+<img width="1731" height="909" alt="Screenshot_23-9-2026_124243_localhost" src="https://github.com/user-attachments/assets/dc9b3239-5751-4d7f-9684-add9b1ffbcc3" />
+
+
+
