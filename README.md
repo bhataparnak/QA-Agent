@@ -139,5 +139,8 @@ data/sample_docs/   fictional help-center docs to try it out
 
 <img width="1731" height="909" alt="Screenshot_23-9-2026_124243_localhost" src="https://github.com/user-attachments/assets/dc9b3239-5751-4d7f-9684-add9b1ffbcc3" />
 
+<img width="1731" height="909" alt="Screenshot_25-9-2026_94623_localhost" src="https://github.com/user-attachments/assets/76af62d8-e5a3-4888-b9bc-c462c1bef5af" />
+
+
 
 
